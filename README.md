@@ -1,5 +1,5 @@
 # Menu-Driven-Python-Script
-Menu Driven Python Script for Azure Advisor
+Menu Driven Python Script for Azure Advisor Data Visualization 
 ### **📜 Explanation of Each Menu Option in the Script**
 
 This **menu-driven Python script** allows users to generate various **pie and bar charts** based on **Azure Advisor recommendations data** from a CSV file.  
